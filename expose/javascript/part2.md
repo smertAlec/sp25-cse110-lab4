@@ -47,5 +47,5 @@
         Boolean(2) is true and true === true.
 15. === is strict equality, meaning the values being compared must be the same data type. == allows for different data types to be compared.  
 
-17\. The function will return [2, 4, 6]. Every time it pushes into the `newArr` list, it will call `callback`, which is an alias for the `doSomething` function. Therefore, it will mulitply each element of the input list by 2.
+17\. The function will return [2, 4, 6]. Every time it pushes into the `newArr` list, it will call `callback`, which is an alias for the `doSomething` function. Therefore, it will mulitply each element of the input list by 2.  
 19\. 1432
